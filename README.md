@@ -56,16 +56,3 @@ A passionate **Full Stack Developer** dedicated to building **modern web applica
   </picture>
 </div>
 
----
-
-### 📫 Connect with me
-<p align="center">
-  <a href="mailto:vuongkhiem56@gmail.com">
-    <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
-  </a>
-  <img src="https://komarev.com/ghpvc/?username=khiemvuong&style=for-the-badge&color=blue" alt="Profile Views">
-</p>
-
-<div align="center">
-  <p>🚀 <i>Available for freelance work and collaboration!</i></p>
-</div>
