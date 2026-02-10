@@ -1,1 +1,1 @@
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=khiemvuong)](https://github.com/anuraghazra/github-readme-stats)
+![Thống kê GitHub của Khiêm](https://github-readme-stats.vercel.app/api?username=khiemvuong&show_icons=true&theme=radical)
