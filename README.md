@@ -1,36 +1,16 @@
-# Hi there, I'm Khiêm Vương <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" height="30px">
-# I'm a MERN Stack Developer & Software Engineer.
+<div align="center">
+  <h1>Hi there, I'm Khiêm Vương <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"></h1>
+  <p>🚀 <strong>MERN Stack Developer & Software Engineer</strong></p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Full Stack Developer-💻-blue?style=for-the-badge&logo=javascript&logoColor=white" alt="Full Stack Developer">
-  <img src="https://img.shields.io/badge/TypeScript-Expert-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript">
-  <img src="https://img.shields.io/badge/MERN Stack-🚀-green?style=for-the-badge&logo=mongodb&logoColor=white" alt="MERN Stack">
-</p>
+  <p>
+    <img src="https://img.shields.io/badge/Full Stack Developer-💻-blue?style=for-the-badge&logo=javascript&logoColor=white" alt="Full Stack Developer">
+    <img src="https://img.shields.io/badge/TypeScript-Expert-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript">
+    <img src="https://img.shields.io/badge/MERN Stack-🚀-green?style=for-the-badge&logo=mongodb&logoColor=white" alt="MERN Stack">
+  </p>
+</div>
 
 ### 🎯 Professional Summary
-Một nhà phát triển Full Stack đam mê xây dựng các ứng dụng web hiện đại với **MERN Stack** (MongoDB, Express, React, Node.js). Tôi tập trung vào việc viết mã nguồn sạch bằng **TypeScript**, tối ưu hóa hiệu suất hệ thống và luôn tìm kiếm những giải pháp kỹ thuật sáng tạo để giải quyết các vấn đề thực tế.
-
-### 🎨 Hobbies & Interests
-- 🌐 **Khám phá công nghệ mới** — Luôn cập nhật các xu hướng lập trình hiện đại.
-- 💻 **Lập trình** — Đam mê xây dựng các sản phẩm từ con số 0.
-- 📚 **Chia sẻ kiến thức** — Thích học hỏi và thảo luận về kiến trúc phần mềm.
-- 📐 **DIY Projects** — Thích tìm tòi và tự tay thực hiện các dự án cá nhân thú vị.
-
-### 🌐 Let's Connect!
-<p align="center">
-  📧 **Email**: <a href="mailto:vuongkhiem56@gmail.com">vuongkhiem56@gmail.com</a><br>
-  📞 **Phone**: 0911520235<br>
-  📍 **Location**: VietNam 🇻🇳<br>
-  💼 **Available for freelance work**
-</p>
-
-<p align="center">
-  <a href="mailto:vuongkhiem56@gmail.com">
-    <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
-  </a>
-</p>
-
----
+A passionate **Full Stack Developer** dedicated to building **modern web applications** using the **MERN Stack** (MongoDB, Express, React, Node.js). I focus on writing **clean code with TypeScript**, **optimizing system performance**, and constantly seeking **innovative technical solutions** to solve **real-world problems**.
 
 ### 👨‍💻 Tech Stack
 <p align="center">
@@ -38,35 +18,54 @@ Một nhà phát triển Full Stack đam mê xây dựng các ứng dụng web h
 </p>
 
 <p align="center">
-  <strong>Frontend:</strong> React, Next.js, TypeScript, Tailwind CSS, Redux Toolkit, HTML5, CSS3<br>
-  <strong>Backend:</strong> Node.js, Express, RESTful API<br>
-  <strong>Databases:</strong> MongoDB, MySQL, PostgreSQL<br>
-  <strong>Tools & Technologies:</strong> Git, GitHub, VS Code, Postman, Docker, CI/CD
+  <b>Frontend:</b> React, Next.js, TypeScript, Tailwind CSS, Redux Toolkit, HTML5, CSS3 <br>
+  <b>Backend:</b> Node.js, Express, RESTful API | <b>Databases:</b> MongoDB, MySQL, PostgreSQL <br>
+  <b>Tools:</b> Git, GitHub, VS Code, Postman, Docker, CI/CD
 </p>
 
 ---
 
-### 🏆 GitHub Statistics
-<p align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=khiemvuong&layout=compact&theme=radical" alt="Top Languages">
-  </a>
-</p>
+### 📈 GitHub Activities & Stats
 
-<p align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=khiemvuong&show_icons=true&theme=radical&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage" alt="GitHub Stats">
-  </a>
-</p>
+<div align="center">
+  <table border="0">
+    <tr>
+      <td width="50%" align="center">
+        <img src="https://github-readme-activity-graph.vercel.app/graph?username=khiemvuong&theme=github-dark&bg_color=0d1117&hide_border=true&area=true&area_color=58a6ff" width="100%" alt="Activity Graph">
+      </td>
+      <td width="50%" align="center">
+        <img src="https://streak-stats.demolab.com?user=khiemvuong&theme=dark&background=0D1117&border=444&ring=58A6FF&fire=FF8C00" width="100%" alt="GitHub Streak">
+      </td>
+    </tr>
+    <tr>
+      <td colspan="2" align="center">
+         <img src="https://github-stats-git-main-m3dkatas-projects.vercel.app/api/top-langs/?username=khiemvuong&layout=compact&theme=synthwave" alt="Top Languages">
+      </td>
+    </tr>
+  </table>
+</div>
 
+---
+
+### 🐍 Contribution Snake
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/adorabled4/khiemvuong/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/adorabled4/adorabled4/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/adorabled4/adorabled4/output/github-contribution-grid-snake.svg" width="700">
+  </picture>
+</div>
+
+---
+
+### 📫 Connect with me
 <p align="center">
+  <a href="mailto:vuongkhiem56@gmail.com">
+    <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  </a>
   <img src="https://komarev.com/ghpvc/?username=khiemvuong&style=for-the-badge&color=blue" alt="Profile Views">
 </p>
 
----
-
-### 💼 Key Focus & Goals
-- 🚀 **Xây dựng ứng dụng Scalable** - Tập trung vào kiến trúc có thể mở rộng.
-- ⚡ **Tối ưu trải nghiệm người dùng** - Đảm bảo ứng dụng chạy mượt mà và thân thiện.
-- 🔄 **TypeScript Adoption** - Áp dụng chặt chẽ kiểu dữ liệu để giảm thiểu lỗi runtime.
-- 🏗️ **Full-Stack Expertise** - Làm chủ mọi khía cạnh từ Database đến UI/UX.
+<div align="center">
+  <p>🚀 <i>Available for freelance work and collaboration!</i></p>
+</div>
