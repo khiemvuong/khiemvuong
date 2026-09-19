@@ -8,13 +8,6 @@
   Building reliable web products from idea to implementation.
 </p>
 
-<p align="center">
-  <a href="YOUR_LINKEDIN">LinkedIn</a>
-  ·
-  <a href="YOUR_PORTFOLIO">Portfolio</a>
-  ·
-  <a href="mailto:YOUR_EMAIL">Email</a>
-</p>
 
 ---
 
@@ -41,20 +34,6 @@ data structures, algorithms, and software design.
 
 ## Selected Work
 
-### 🎂 Layerz
-
-A cake marketplace focused on making it easier for customers to discover
-and choose cakes from local bakeries.
-
-**What I worked on**
-- Redesigned product discovery around customer location.
-- Reworked search, filtering, categories, and bakery-based browsing.
-- Designed flows that balance marketplace scale with a simple purchasing experience.
-- Explored lightweight tools for practical cake customization.
-
-`Product` `Frontend` `Marketplace` `UX`
-
----
 
 ### 🎮 Real-Time Multiplayer Game
 
